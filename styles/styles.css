@@ -21,11 +21,13 @@
     text-decoration: none;
     font-weight: 500;
 }
+
 .photo{
   width: 30px;
   height: 30px;
   object-fit: cover;
 }
+
 .hero{
     display: flex;
   align-items: center;
